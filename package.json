@@ -146,7 +146,7 @@
     "@renovatebot/pep440": "2.1.5",
     "@renovatebot/ruby-semver": "1.1.6",
     "@sindresorhus/is": "4.6.0",
-    "@types/tmp": "0.2.3",
+    "@types/tmp": "0.2.6",
     "@yarnpkg/core": "3.2.4",
     "@yarnpkg/parsers": "2.5.1",
     "agentkeepalive": "4.2.1",
